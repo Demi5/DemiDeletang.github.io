@@ -1,2 +1,23 @@
+/*Color Palette*/
+.color-1{
+    background: red;
+}
+.color-2{
+    background: white;
+}
+.color-3{
+    background:blue;
+}
+.color-4{
+    bakground: black;
+}
 
+/*Textures and patterns*/
+.pattern-1{
+ background: url("http://img.bhs4.com/22/d/22d8ef25c96d26ed651e80cab779fc3dd71f1c5f_large.jpg");
+    background-size: cover; 
+}
 
+.pattern-2{
+    
+}
