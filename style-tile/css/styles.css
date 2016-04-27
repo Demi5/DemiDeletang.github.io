@@ -19,5 +19,28 @@
 }
 
 .pattern-2{
-    
+ background: url("../img/Starbucks.png");
+    background-size: contain;
+}
+
+/*Images*/
+.imagery-1 img {
+    box-shadow: 5px 5px  0px red,
+        10px 10px  0px white,
+        15px 15px  0px blue;
+}
+/*Icon*/
+.icon-1 {
+ border:none;   
+}
+
+.icon-2{
+ background: url("../img/iconmonstr-smartphone-4-240.png");
+    background-size: contain;
+}
+
+/*Navigation*/
+nav li {
+ list-style: none; 
+    display: inline-block;
 }
